@@ -141,6 +141,7 @@ ol {
 	margin-bottom: 40px;
 }
 
+
 .set-bg {
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -271,7 +272,7 @@ ol {
 
 .inner-header .logo {
 	float: left;
-	line-height: 60px;
+	line-height: 65px;
 }
 
 .inner-header .logo a {
@@ -280,6 +281,22 @@ ol {
 
 .inner-header .nav-right {
 	float: right;
+}
+
+.logo
+{
+	/* width: 130px; */
+	padding: 0 10px;
+	height: 49px;
+	text-align: center;
+}
+.logo a
+{
+	display: block;
+	font-size: 24px;
+	font-weight: 600;
+	color: #ffffff;
+	line-height: 37px;
 }
 
 .inner-header .main-menu {
@@ -650,12 +667,18 @@ ol {
 	margin-bottom: 375px;
 }
 
+.fi-title-bg {
+	background-color: rgba(70, 64, 64, 0.6);
+	padding: 10px;
+
+}
+
 .facilities-item .fi-title h2 {
 	color: #ffffff;
 	font-size: 48px;
 	font-weight: 500;
 	line-height: 48px;
-	margin-bottom: 8px;
+	margin-bottom: 38px;
 }
 
 .facilities-item .fi-title p {
@@ -855,9 +878,24 @@ ol {
 	margin-bottom: 25px;
 }
 
+.footer__logo-title {
+	border: none;
+
+}
+
+.footer__logo-title a {
+	color: #F9AD81;
+
+}
+
 .footer-item .footer-logo a {
 	display: inline-block;
+	color: #F9AD81;
+	font-size: 30px;
+
 }
+
+
 
 .footer-item h5 {
 	color: #F9AD81;
@@ -946,6 +984,18 @@ ol {
 	left: 0;
 	top: 4px;
 }
+
+.footer-item ul li a {
+	list-style: none;
+	color: #9d9d9d;
+	line-height: 24px;
+	font-size: 14px;
+	font-weight: 600;
+	letter-spacing: 0.5px;
+	position: relative;
+	margin-bottom: 11px;
+}
+
 
 .copyright {
 	background: #171717;
@@ -1653,7 +1703,7 @@ ol {
 -----------------------*/
 
 .map {
-	height: 910px;
+	height: 400px;
 }
 
 .map iframe {
