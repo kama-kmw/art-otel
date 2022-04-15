@@ -16,7 +16,6 @@
                     <li><a href="rooms.php">Номера</a></li>
                     <li><a href="galery.php">Галерея</a></li>
                     <li><a href="contact.php">Контакты</a></li>
-                    <li>f</li>
                 </ul>
             </nav>
         </div>

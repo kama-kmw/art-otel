@@ -296,67 +296,7 @@
     </section>
     <!-- Home Page About Section End -->
 
-    <!-- Footer Section Begin -->
-    <footer class="footer-section">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-4">
-                    <div class="footer-item">
-                        <div class="footer-logo">
-                            <!-- <a href="#"><img src="img/logo.png" alt=""></a> -->
-                            <div class="logo footer__logo-title"><a href="#">Art Hotel</a></div>
-                        </div>
-                        <p>Нас рекомендует 101hotel.com, как один из самых популярных вариантов среди гостей в Ессентуках.</p>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="footer-item">
-                        <h5>Мы Вам перезвоним</h5>
-                        <div class="newslatter-form">
-                            <input type="email" class="newsletter_input" placeholder="Ваш телефон" required="required">
-                            <button type="submit">Забронировать</button>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="footer-item">
-                        <h5>Контакты</h5>
-                        <ul>
-                            <li><img src="img/placeholder.png" alt="">Ессентуки, <br />ул. Фридриха Энгельса, д.2а</li>
-                            <li><img src="img/phone.png" alt=""><a href="tel:+79237771438">+7 (923) 777-14-38</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="copyright">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        
-                        <ul>
-                            <li class="active"><a href="./index.html">Главная</a></li>
-                            <li><a href="#">О нас</a></li>
-                            <li><a href="#">Номера</a></li>
-                            <li><a href="#">Facilities</a></li>
-                            <li><a href="#">Галерея</a></li>
-                            <li><a href="#">Контакты</a></li>
-                        </ul>
-                    </div>
-                </div>
-<div class="row pt-5">
-                    <div class="col-lg-12 ">
-                        <div class="small text-white text-center"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script>  | Сайт создан на
-<a href="https://art-cod.ru" target="_blank">Art-Cod.ru </a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </footer>
-    <!-- Footer Section End -->
+    <?php include 'includes/footer.php' ?>
 
     <!-- Js Plugins -->
     <script src="js/jquery-3.3.1.min.js"></script>

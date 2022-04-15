@@ -905,6 +905,8 @@ ol {
 
 .footer-item .newslatter-form {
 	position: relative;
+	display: flex;
+	flex-wrap: wrap;
 }
 
 .footer-item .newslatter-form input {
@@ -916,6 +918,7 @@ ol {
 	color: #ffffff;
 	padding-left: 25px;
 	padding-right: 15px;
+	text-align: center;
 }
 
 .footer-item .newslatter-form input::-webkit-input-placeholder {
@@ -952,9 +955,9 @@ ol {
 	font-size: 14px;
 	color: #ffffff;
 	background: #F9AD81;
-	display: inline-block;
+	display: block;
+	width: 100%;
 	border: none;
-	position: absolute;
 	right: 0;
 	top: 0;
 	padding: 14px 25px;
@@ -2094,4 +2097,7 @@ ol {
 	.ri-text .ri-features .ri-info {
 		margin-bottom: 20px;
 	}
+}
+.artcod-link {
+	color: #F9AD81 !important;
 }
