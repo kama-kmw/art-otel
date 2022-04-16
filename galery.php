@@ -38,7 +38,7 @@
     <!-- Hero Area Section End -->
 
     <!-- Search Filter Section Begin -->
-    <section class="search-filter other-page-filter">
+    <!-- <section class="search-filter other-page-filter">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -82,7 +82,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- Search Filter Section End -->
 
     <!-- Blog Section Begin -->
