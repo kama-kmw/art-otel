@@ -37,7 +37,7 @@
                     <ul>
                         <li><img src="img/icon/vk.png"><a href="https://vk.com/id717806161" target="_blank">В Контакте</a></li>
                         <li><img src="img/icon/ok.png"><a href="https://ok.ru/profile/586878645961" target="_blank">Одноклассники</a></li>
-                        <li><img src="img/icon/whatsapp.png"><a href="https://wa.me/79614811118?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%20%F0%9F%91%8B%20%D0%9F%D0%B8%D1%88%D0%B5%D0%BC%20%D0%B2%D0%B0%D0%BC%20%D1%81%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0." target="_blank">WhatsApp</a></li>
+                        <li><img src="img/icon/whatsapp.png"><a href="whatsapp://send?phone=+79614811118" target="_blank">WhatsApp</a></li>
                         <li><img src="img/icon/mail.png"><a href="mailto:art.hotel.essentuki@mail.ru" target="_blank">Почта</a></li>
                     </ul>
                 </div>

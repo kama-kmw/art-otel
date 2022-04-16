@@ -1281,11 +1281,12 @@ ol {
 }
 
 .ri-text p {
-	margin-bottom: 62px;
+	margin-bottom: 12px;
 }
 
 .ri-text .ri-features {
 	margin-bottom: 50px;
+	margin-top: 50px;
 }
 
 .ri-text .ri-features .ri-info {
@@ -1699,6 +1700,15 @@ ol {
 
 .info-box .social-links a:last-child {
 	margin-right: 0;
+}
+
+.info-box .social-links .social-box__links {
+	display: flex;
+	justify-content: center;
+}
+
+.info-box .social-links .social-contact__link {
+	border: none;
 }
 
 /*---------------------

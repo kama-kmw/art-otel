@@ -133,7 +133,7 @@
                         <div class="fi-features">
                             <div class="fi-info">
                                 <i class="flaticon-019-television"></i>
-                                <p>Смарт ТВ</p>
+                                <p>Телевизор</p>
                             </div>
                             <div class="fi-info">
                                 <i class="flaticon-029-wifi"></i>

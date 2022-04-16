@@ -125,12 +125,24 @@
                             <li>+7 (923) 777-14-38</li>
                         </ul>
                         <div class="social-links">
-                            <a href="#"><i class="fa fa-facebook"></i></a>
-                            <a href="#"><i class="fa fa-instagram"></i></a>
-                            <a href="#"><i class="fa fa-linkedin"></i></a>
-                            <a href="#"><i class="fa fa-pinterest"></i></a>
-                            <a href="#"><i class="fa fa-twitter"></i></a>
-                            <a href="#"><i class="fa fa-youtube-play"></i></a>
+                            <ul class='social-box__links'>
+                                <li>
+                                    <a href="https://vk.com/id717806161"     
+                                     target="_blank" class='social-contact__link'><img src="img/icon/vk.png"></a>
+                                </li>
+                                <li>
+                                    <a href="https://ok.ru/profile/586878645961"     
+                                     target="_blank" class='social-contact__link'><img src="img/icon/ok.png"></a>
+                                </li>
+                                <li>
+                                    <a href="whatsapp://send?phone=+79614811118"     
+                                     target="_blank" class='social-contact__link'><img src="img/icon/whatsapp.png"></a>
+                                </li>
+                                <li>
+                                    <a href="mailto:art.hotel.essentuki@mail.ru"     
+                                     target="_blank" class='social-contact__link'><img src="img/icon/mail.png"></a>
+                                </li>
+                            </ul>
                         </div>
                     </div>
                 </div>

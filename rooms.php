@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html lang="zxx">
 
 <head>
@@ -7,7 +7,7 @@
     <meta name="keywords" content="Hotel, unica, creative, html">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Europa Hotel & Spa | Template</title>
+    <title>Art Hotel</title>
 
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css?family=Montserrat+Alternates:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
@@ -37,46 +37,46 @@
     <!-- Hero Area Section End -->
 
     <!-- Search Filter Section Begin -->
-    <section class="search-filter other-page-filter">
+    <section class="search-filter">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <form action="#" class="check-form">
-                        <h4>Check Availability</h4>
+                        <h4>Выберите период</h4>
                         <div class="datepicker">
-                            <p>From</p>
+                            <p>Дата въезда</p>
                             <input type="text" class="datepicker-1" value="dd / mm / yyyy">
                             <img src="img/calendar.png" alt="">
                         </div>
                         <div class="datepicker">
-                            <p>To</p>
+                            <p>Дата выезда</p>
                             <input type="text" class="datepicker-2" value="dd / mm / yyyy">
                             <img src="img/calendar.png" alt="">
                         </div>
-                        <div class="room-quantity">
+                        <!-- <div class="room-quantity">
                             <div class="single-quantity">
-                                <p>Adults</p>
+                                <p>Люди</p>
                                 <div class="pro-qty"><input type="text" value="0"></div>
                             </div>
                             <div class="single-quantity">
-                                <p>Children</p>
+                                <p>Дети</p>
                                 <div class="pro-qty"><input type="text" value="0"></div>
                             </div>
                             <div class="single-quantity last">
-                                <p>Rooms</p>
+                                <p>Номера</p>
                                 <div class="pro-qty"><input type="text" value="0"></div>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="room-selector">
-                            <p>Room</p>
+                            <p>Номер</p>
                             <select class="suit-select">
-                                <option>Eg. Master suite</option>
-                                <option value="">Double Room</option>
-                                <option value="">Single Room</option>
-                                <option value="">Special Room</option>
+                                <option>Выберите номер</option>
+                                <option value="">Две кровати</option>
+                                <option value="">Двуспальная кровать</option>
+                                <option value="">Двуспальный люкс</option>
                             </select>
                         </div>
-                        <button type="submit">Go</button>
+                        <button type="submit">Забронировать</button>
                     </form>
                 </div>
             </div>
@@ -91,9 +91,9 @@
                 <div class="col-lg-6">
                     <div class="ri-slider-item">
                         <div class="ri-sliders owl-carousel">
-                            <div class="single-img set-bg" data-setbg="img/galery/room-1.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="img/galery/room-2.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="img/galery/room-3.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="images/11.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="images/12.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="images/13.jpg"></div>
                         </div>
                     </div>
                 </div>
@@ -101,37 +101,38 @@
                     <div class="ri-text">
                         <div class="section-title">
                             <div class="section-title">
-                                <span>a memorable holliday</span>
-                                <h2>Deluxe Suite</h2>
+                                <span>номер двухместный</span>
+                                <h2> с двумя кроватями</h2>
                             </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo
-                                viverra maecenas. Donec in sodales dui, a blandit nunc. Pellentesque id eros venenatis,
-                                sollicitudin neque sodales, vehicula nibh. Nam massa odio, porttitor vitae efficitur
-                                non, ultricies volutpat tellus.</p>
+                            <p>Площадь номера 20м2</p>
+                            <p>Две односпальные кровати</p>
+                            <p>2 спальных места</p>
+                            <p>Набор полотенец</p>
+                            <p>Cредства личной гигиены</p>
+
                             <div class="ri-features">
                                 <div class="ri-info">
                                     <i class="flaticon-019-television"></i>
-                                    <p>Smart TV</p>
+                                    <p>Телевизор</p>
                                 </div>
                                 <div class="ri-info">
                                     <i class="flaticon-029-wifi"></i>
-                                    <p>High Wi-fii</p>
+                                    <p>Wi-Fi</p>
                                 </div>
                                 <div class="ri-info">
                                     <i class="flaticon-003-air-conditioner"></i>
-                                    <p>AC</p>
+                                    <p>Сплит</p>
                                 </div>
                                 <div class="ri-info">
                                     <i class="flaticon-036-parking"></i>
-                                    <p>Parking</p>
+                                    <p>Парковка</p>
                                 </div>
                                 <div class="ri-info">
                                     <i class="flaticon-007-swimming-pool"></i>
-                                    <p>Pool</p>
+                                    <p>Трансфер</p>
                                 </div>
                             </div>
-                            <a href="#" class="primary-btn">Make a Reservation</a>
+                            <a href="#" class="primary-btn">Забронировать</a>
                         </div>
                     </div>
                 </div>
@@ -140,9 +141,111 @@
                 <div class="col-lg-6 order-lg-2">
                     <div class="ri-slider-item">
                         <div class="ri-sliders owl-carousel">
-                            <div class="single-img set-bg" data-setbg="img/galery/room-2.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="img/galery/room-3.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="images/14.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="images/15.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="images/16.jpg"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 order-lg-1">
+                    <div class="ri-text left-side">
+                        <div class="section-title">
+                            <div class="section-title">
+                                <span>номер двухместный</span>
+                                <h2>c двуспальной кроватью</h2>
+                            </div>
+                            <p>Площадь номера 20м2</p>
+                            <p>Двуспальная кровать</p>
+                            <p>2 спальных места</p>
+                            <p>Набор полотенец</p>
+                            <p>Cредства личной гигиены</p>
+                            <div class="ri-features">
+                                <div class="ri-info">
+                                    <i class="flaticon-019-television"></i>
+                                    <p>Телевизор</p>
+                                </div>
+                                <div class="ri-info">
+                                    <i class="flaticon-029-wifi"></i>
+                                    <p>Wi-Fi</p>
+                                </div>
+                                <div class="ri-info">
+                                    <i class="flaticon-003-air-conditioner"></i>
+                                    <p>Сплит</p>
+                                </div>
+                                <div class="ri-info">
+                                    <i class="flaticon-036-parking"></i>
+                                    <p>Парковка</p>
+                                </div>
+                                <div class="ri-info">
+                                    <i class="flaticon-007-swimming-pool"></i>
+                                    <p>Трансфер</p>
+                                </div>
+                            </div>
+                            <a href="#" class="primary-btn">Забронировать</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="ri-slider-item">
+                        <div class="ri-sliders owl-carousel">
+                            <div class="single-img set-bg" data-setbg="images/17.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="images/18.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="images/19.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="images/20.jpg"></div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="ri-text">
+                        <div class="section-title">
+                            <div class="section-title">
+                                <span>номер двухместный</span>
+                                <h2>Люкс</h2>
+                            </div>
+                            <p>Площадь номера 45м2</p>
+                            <p>Двуспальная кровать</p>
+                            <p>2 спальных места</p>
+                            <p>Журнальный столик</p>
+                            <p>Сейф</p>
+                            <p>Диван</p>
+                            <p>Cредства личной гигиены</p>
+                            <div class="ri-features">
+                                <div class="ri-info">
+                                    <i class="flaticon-019-television"></i>
+                                    <p>Телевизор</p>
+                                </div>
+                                <div class="ri-info">
+                                    <i class="flaticon-029-wifi"></i>
+                                    <p>Wi-Fi</p>
+                                </div>
+                                <div class="ri-info">
+                                    <i class="flaticon-003-air-conditioner"></i>
+                                    <p>Сплит</p>
+                                </div>
+                                <div class="ri-info">
+                                    <i class="flaticon-036-parking"></i>
+                                    <p>Парковка</p>
+                                </div>
+                                <div class="ri-info">
+                                    <i class="flaticon-007-swimming-pool"></i>
+                                    <p>Трансфер</p>
+                                </div>
+                            </div>
+                            <a href="#" class="primary-btn">Забронировать</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- <div class="row">
+                <div class="col-lg-6 order-lg-2">
+                    <div class="ri-slider-item">
+                        <div class="ri-sliders owl-carousel">
                             <div class="single-img set-bg" data-setbg="img/galery/room-4.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/galery/room-3.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/galery/room-2.jpg"></div>
                         </div>
                     </div>
                 </div>
@@ -184,105 +287,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-6">
-                    <div class="ri-slider-item">
-                        <div class="ri-sliders owl-carousel">
-                            <div class="single-img set-bg" data-setbg="img/galery/room-3.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="img/galery/room-4.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="img/galery/room-1.jpg"></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="ri-text">
-                        <div class="section-title">
-                            <div class="section-title">
-                                <span>a memorable holliday</span>
-                                <h2>Double Room</h2>
-                            </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo
-                                viverra maecenas. Donec in sodales dui, a blandit nunc. Pellentesque id eros venenatis,
-                                sollicitudin neque sodales, vehicula nibh. Nam massa odio, porttitor vitae efficitur
-                                non, ultricies volutpat tellus.</p>
-                            <div class="ri-features">
-                                <div class="ri-info">
-                                    <i class="flaticon-019-television"></i>
-                                    <p>Smart TV</p>
-                                </div>
-                                <div class="ri-info">
-                                    <i class="flaticon-029-wifi"></i>
-                                    <p>High Wi-fii</p>
-                                </div>
-                                <div class="ri-info">
-                                    <i class="flaticon-003-air-conditioner"></i>
-                                    <p>AC</p>
-                                </div>
-                                <div class="ri-info">
-                                    <i class="flaticon-036-parking"></i>
-                                    <p>Parking</p>
-                                </div>
-                                <div class="ri-info">
-                                    <i class="flaticon-007-swimming-pool"></i>
-                                    <p>Pool</p>
-                                </div>
-                            </div>
-                            <a href="#" class="primary-btn">Make a Reservation</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-6 order-lg-2">
-                    <div class="ri-slider-item">
-                        <div class="ri-sliders owl-carousel">
-                            <div class="single-img set-bg" data-setbg="img/galery/room-4.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="img/galery/room-3.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="img/galery/room-2.jpg"></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 order-lg-1">
-                    <div class="ri-text left-side">
-                        <div class="section-title">
-                            <div class="section-title">
-                                <span>a memorable holliday</span>
-                                <h2>Twin Room With Seaview</h2>
-                            </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo
-                                viverra maecenas. Donec in sodales dui, a blandit nunc. Pellentesque id eros venenatis,
-                                sollicitudin neque sodales, vehicula nibh. Nam massa odio, porttitor vitae efficitur
-                                non, ultricies volutpat tellus.</p>
-                            <div class="ri-features">
-                                <div class="ri-info">
-                                    <i class="flaticon-019-television"></i>
-                                    <p>Smart TV</p>
-                                </div>
-                                <div class="ri-info">
-                                    <i class="flaticon-029-wifi"></i>
-                                    <p>High Wi-fii</p>
-                                </div>
-                                <div class="ri-info">
-                                    <i class="flaticon-003-air-conditioner"></i>
-                                    <p>AC</p>
-                                </div>
-                                <div class="ri-info">
-                                    <i class="flaticon-036-parking"></i>
-                                    <p>Parking</p>
-                                </div>
-                                <div class="ri-info">
-                                    <i class="flaticon-007-swimming-pool"></i>
-                                    <p>Pool</p>
-                                </div>
-                            </div>
-                            <a href="#" class="primary-btn">Make a Reservation</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            </div> -->
         </div>
     </section>
     <!-- Room Section End -->
