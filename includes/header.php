@@ -18,6 +18,7 @@
                     <li><a href="contact.php">Контакты</a></li>
                 </ul>
             </nav>
+            <div id="mobile-menu-wrap"></div>
         </div>
     </div>
 </header>
