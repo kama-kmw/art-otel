@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="zxx">
- 
+
 <head>
     <meta charset="UTF-8">
     <meta name="description" content="Hotel Template">
@@ -10,9 +10,7 @@
     <title>Art Hotel</title>
 
     <!-- Google Font -->
-    <link
-        href="https://fonts.googleapis.com/css?family=Montserrat+Alternates:100,200,300,400,500,600,700,800,900&display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat+Alternates:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
 
     <!-- Css Styles -->
     <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
@@ -27,12 +25,11 @@
 </head>
 
 <body>
-    <!-- Page Preloder -->
-    <div id="preloder">
-        <div class="loader"></div>
-    </div>
 
-    <?php include 'includes/header.php' ?>
+    <?php
+    include 'includes/preloader.php';
+    include 'includes/header.php';
+    ?>
 
     <!-- Hero Area Section Begin -->
     <div class="hero-area set-bg other-page" data-setbg="img/about_bg.jpg">

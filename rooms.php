@@ -25,12 +25,11 @@
 </head>
 
 <body>
-    <!-- Page Preloder -->
-    <div id="preloder">
-        <div class="loader"></div>
-    </div>
 
-    <?php include 'includes/header.php' ?>
+    <?php
+    include 'includes/preloader.php';
+    include 'includes/header.php';
+    ?>
 
     <!-- Hero Area Section Begin -->
     <div class="hero-area set-bg other-page" data-setbg="img/about_bg.jpg">
@@ -92,9 +91,9 @@
                 <div class="col-lg-6">
                     <div class="ri-slider-item">
                         <div class="ri-sliders owl-carousel">
-                            <div class="single-img set-bg" data-setbg="img/rooms/room-1.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="img/rooms/room-2.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="img/rooms/room-3.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/galery/room-1.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/galery/room-2.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/galery/room-3.jpg"></div>
                         </div>
                     </div>
                 </div>
@@ -141,9 +140,9 @@
                 <div class="col-lg-6 order-lg-2">
                     <div class="ri-slider-item">
                         <div class="ri-sliders owl-carousel">
-                            <div class="single-img set-bg" data-setbg="img/rooms/room-2.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="img/rooms/room-3.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="img/rooms/room-4.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/galery/room-2.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/galery/room-3.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/galery/room-4.jpg"></div>
                         </div>
                     </div>
                 </div>
@@ -190,9 +189,9 @@
                 <div class="col-lg-6">
                     <div class="ri-slider-item">
                         <div class="ri-sliders owl-carousel">
-                            <div class="single-img set-bg" data-setbg="img/rooms/room-3.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="img/rooms/room-4.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="img/rooms/room-1.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/galery/room-3.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/galery/room-4.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/galery/room-1.jpg"></div>
                         </div>
                     </div>
                 </div>
@@ -239,9 +238,9 @@
                 <div class="col-lg-6 order-lg-2">
                     <div class="ri-slider-item">
                         <div class="ri-sliders owl-carousel">
-                            <div class="single-img set-bg" data-setbg="img/rooms/room-4.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="img/rooms/room-3.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="img/rooms/room-2.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/galery/room-4.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/galery/room-3.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/galery/room-2.jpg"></div>
                         </div>
                     </div>
                 </div>

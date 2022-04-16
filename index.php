@@ -25,15 +25,14 @@
 </head>
 
 <body>
-    <!-- Page Preloder -->
-    <div id="preloder">
-        <div class="loader"></div>
-    </div>
-
-    <?php include 'includes/header.php' ?>
+    
+    <?php 
+    include 'includes/preloader.php';
+    include 'includes/header.php';
+    ?>
 
     <!-- Hero Area Section Begin -->
-    <section class="hero-area set-bg" data-setbg="images/4.jpeg">
+    <section class="hero-area set-bg" data-setbg="img/galery/4.jpeg">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -157,7 +156,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="facilities-item set-bg fi-right" data-setbg="images/2.jpeg">
+                    <div class="facilities-item set-bg fi-right" data-setbg="img/galery/2.jpeg">
                         <div class="fi-title fi-title-bg">
                             <h2>Сервисы</h2>
                             <p>Камера хранения багажа</p>
@@ -205,7 +204,7 @@
                         <p>Небольшой уютный отель,Хорошее месторасположение,Чистые комфортные номера,Отзывчивый персонал.p>
                         <div class="ti-author">
                             <div class="author-pic">
-                                <img src="images/user.jpeg" alt="">
+                                <img src="img/icon/user.jpeg" alt="">
                             </div>
                             <div class="author-text">
                                 <h6>Сергей <span>Самара</span></h6>
@@ -229,7 +228,7 @@
                         <p>Отель нам очень понравился, современный, чистый и отлично расположен. Недалеко от него есть очень красивый парк, мы ходили гулять, воздух чудесный в этих краях. Персонал в отеле приятный, вежливый, всегда уточняет наши пожелания. Мы остались довольны.p>
                         <div class="ti-author">
                             <div class="author-pic">
-                                <img src="images/user.jpeg" alt="">
+                                <img src="img/icon/user.jpeg" alt="">
                             </div>
                             <div class="author-text">
                                 <h6>Иван <span>Санкт-Петербург</span></h6>
@@ -246,7 +245,7 @@
     <div class="video-section">
         <div class="video-bg set-bg" data-setbg="img/video-bg.jpg"></div>
         <div class="container">
-            <div class="video-text set-bg" data-setbg="images/luks.jpeg">
+            <div class="video-text set-bg" data-setbg="img/galery/10.jpeg">
                 <!-- <a href="https://www.youtube.com/watch?v=j56YlCXuPFU" class="pop-up"><i class="fa fa-play"></i></a> -->
             </div>
         </div>
@@ -271,22 +270,22 @@
                     <div class="row">
                         <div class="col-sm-6">
                             <div class="about-img">
-                                <img src="images/5.jpeg" alt="">
+                                <img src="img/galery/5.jpeg" alt="">
                             </div>
                         </div>
                         <div class="col-sm-6">
                             <div class="about-img">
-                                <img src="images/6.jpeg" alt="">
+                                <img src="img/galery/6.jpeg" alt="">
                             </div>
                         </div>
                         <div class="col-sm-6">
                             <div class="about-img">
-                                <img src="images/8.jpeg" alt="">
+                                <img src="img/galery/8.jpeg" alt="">
                             </div>
                         </div>
                         <div class="col-sm-6">
                             <div class="about-img">
-                                <img src="images/9.jpeg" alt="">
+                                <img src="img/galery/9.jpeg" alt="">
                             </div>
                         </div>
                     </div>

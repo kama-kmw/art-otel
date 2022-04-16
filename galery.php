@@ -22,15 +22,15 @@
     <link rel="stylesheet" href="css/magnific-popup.css" type="text/css">
     <link rel="stylesheet" href="css/slicknav.min.css" type="text/css">
     <link rel="stylesheet" href="css/style.css" type="text/css">
+    <link rel="stylesheet" href="css/galery.css" type="text/css">
 </head>
 
 <body>
-    <!-- Page Preloder -->
-    <div id="preloder">
-        <div class="loader"></div>
-    </div>
 
-    <?php include 'includes/header.php' ?>
+    <?php
+    include 'includes/preloader.php';
+    include 'includes/header.php';
+    ?>
 
     <!-- Hero Area Section Begin -->
     <div class="hero-area set-bg other-page" data-setbg="img/about_bg.jpg">
@@ -86,100 +86,93 @@
     <!-- Search Filter Section End -->
 
     <!-- Blog Section Begin -->
-    <section class="blog-section spad">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8">
-                    <div class="blog-item">
-                        <div class="bi-pic">
-                            <img src="img/blog-1.jpg" alt="">
-                        </div>
-                        <div class="bi-text">
-                            <div class="bi-title">
-                                <div class="blog-time">April 15, 2019</div>
-                                <h3>Tips to have the perfect holliday</h3>
-                                <span>Holliday, trip, Hotel, Fun</span>
-                            </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Lorem ipsum
-                                dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                                et dolore.</p>
-                        </div>
-                    </div>
-                    <div class="blog-item">
-                        <div class="bi-pic">
-                            <img src="img/blog-2.jpg" alt="">
-                        </div>
-                        <div class="bi-text">
-                            <div class="bi-title">
-                                <div class="blog-time">April 15, 2019</div>
-                                <h3>10 Places you need to visit this summer</h3>
-                                <span>Holliday, trip, Hotel, Fun</span>
-                            </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Lorem ipsum
-                                dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                                et dolore.</p>
-                        </div>
-                    </div>
-                    <div class="blog-item">
-                        <div class="bi-pic">
-                            <img src="img/blog-3.jpg" alt="">
-                        </div>
-                        <div class="bi-text">
-                            <div class="bi-title">
-                                <div class="blog-time">April 15, 2019</div>
-                                <h3>The most amazing pools is the world</h3>
-                                <span>Holliday, trip, Hotel, Fun</span>
-                            </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Lorem ipsum
-                                dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                                et dolore.</p>
-                        </div>
-                    </div>
-                    <div class="blog-pagination">
-                        <a href="#">01.</a>
-                        <a href="#">02.</a>
-                        <a href="#">03.</a>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="blog-right">
-                        <form action="#" class="blog-search">
-                            <input type="text">
-                            <button type="submit">Search</button>
-                        </form>
-                        <div class="blog-widget">
-                            <div class="bw-item">
-                                <h4>Categories</h4>
-                                <ul>
-                                    <li>Holliday <span>(22)</span></li>
-                                    <li>Fun Facts <span>(28)</span></li>
-                                    <li>Planning a Trip <span>(18)</span></li>
-                                    <li>Uncategorized <span>(19)</span></li>
-                                </ul>
-                            </div>
-                            <div class="bw-item">
-                                <h4>Archive</h4>
-                                <ul>
-                                    <li>April 2019</li>
-                                    <li>March 2019</li>
-                                    <li>February 2019</li>
-                                    <li>January 2019</li>
-                                    <li>December 2018</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="blog-add set-bg" data-setbg="img/blog-add.jpg">
-                            <h4>Book Your Next <br />Vacation</h4>
-                            <a href="#" class="primary-btn">Make a Reservation</a>
-                        </div>
-                    </div>
+    <div class="selection">
+        <div class="selection__section">
+            <!-- <a href=""><img src="img/2.jpg" alt=""></a><a href=""><img src="img/3.jpg" alt=""></a><a href=""><img src="img/4.jpg" alt=""></a><a href=""><img src="img/5.jpg" alt=""></a><a href=""><img src="img/7.jpg" alt=""></a><a href=""><img src="img/8.jpg" alt=""></a><a href=""><img src="img/9.jpg" alt=""></a> -->
+            <div class="selection__block" data-index="0">
+                <img src="img/galery/1.jpeg" alt="" class="selection__block-img">
+                <div class="selection__zoom">
+                    <div class="selection__zoom-link" data-index="0"></div>
                 </div>
             </div>
+            <div class="selection__block" data-index="1">
+                <img src="img/galery/2.jpeg" alt="" class="selection__block-img">
+                <div class="selection__zoom">
+                    <div class="selection__zoom-link" data-index="1"></div>
+                </div>
+            </div>
+            <div class="selection__block" data-index="2">
+                <img src="img/galery/4.jpeg" alt="" class="selection__block-img">
+                <div class="selection__zoom">
+                    <div class="selection__zoom-link" data-index="2"></div>
+                </div>
+            </div>
+            <div class="selection__block" data-index="3">
+                <img src="img/galery/5.jpeg" alt="" class="selection__block-img">
+                <div class="selection__zoom">
+                    <div class="selection__zoom-link" data-index="3"></div>
+                </div>
+            </div>
+            <div class="selection__block" data-index="1">
+                <img src="img/galery/6.jpeg" alt="" class="selection__block-img">
+                <div class="selection__zoom">
+                    <div class="selection__zoom-link" data-index="1"></div>
+                </div>
+            </div>
+            <div class="selection__block" data-index="2">
+                <img src="img/galery/7.jpeg" alt="" class="selection__block-img">
+                <div class="selection__zoom">
+                    <div class="selection__zoom-link" data-index="2"></div>
+                </div>
+            </div>
+            <div class="selection__block" data-index="3">
+                <img src="img/galery/8.jpeg" alt="" class="selection__block-img">
+                <div class="selection__zoom">
+                    <div class="selection__zoom-link" data-index="3"></div>
+                </div>
+            </div>
+
+            <div class="selection__block" data-index="0">
+                <img src="img/galery/9.jpeg" alt="" class="selection__block-img">
+                <div class="selection__zoom">
+                    <div class="selection__zoom-link" data-index="0"></div>
+                </div>
+            </div>
+            <div class="selection__block" data-index="1">
+                <img src="img/galery/10.jpeg" alt="" class="selection__block-img">
+                <div class="selection__zoom">
+                    <div class="selection__zoom-link" data-index="1"></div>
+                </div>
+            </div>
+            <div class="selection__block" data-index="2">
+                <img src="img/12.jpg" alt="" class="selection__block-img">
+                <div class="selection__zoom">
+                    <div class="selection__zoom-link" data-index="2"></div>
+                </div>
+            </div>
+            <div class="selection__block" data-index="3">
+                <img src="img/13.jpg" alt="" class="selection__block-img">
+                <div class="selection__zoom">
+                    <div class="selection__zoom-link" data-index="3"></div>
+                </div>
+            </div>
+            <div class="selection__block" data-index="3">
+                <img src="img/14.jpg" alt="" class="selection__block-img">
+                <div class="selection__zoom">
+                    <div class="selection__zoom-link" data-index="3"></div>
+                </div>
+            </div>
+
+
         </div>
-    </section>
+        <!-- <div class="row">
+				<div class="col">
+					<div class="selection__btm-more">
+						<a class="selection__btm-more-link" href="#">Загрузить еще</a>
+					</div>
+				</div>
+			</div> -->
+    </div>
     <!-- Blog Section End -->
 
     <?php include 'includes/footer.php' ?>
