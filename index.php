@@ -34,7 +34,7 @@
     ?>
 
     <!-- Hero Area Section Begin -->
-    <section class="hero-area set-bg" data-setbg="img/galery/4.jpeg">
+    <section class="hero-area set-bg" data-setbg="img/banner/25.jpeg">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">

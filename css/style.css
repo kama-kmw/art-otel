@@ -421,7 +421,7 @@ ol {
 }
 
 .hero-area.other-page {
-	height: 488px;
+	height: 688px;
 	padding-top: 0;
 }
 
@@ -1855,6 +1855,9 @@ ol {
 	.kid-pic img {
 		height: auto;
 	}
+
+	
+
 }
 
 /* Tablet Device */
@@ -2073,6 +2076,7 @@ ol {
 	.copyright {
 		text-align: center;
 	}
+	
 }
 
 /* Small Mobile */
@@ -2110,4 +2114,8 @@ ol {
 }
 .artcod-link {
 	color: #F9AD81 !important;
+}
+
+.hero-area.other-page { 
+	height: 488px;
 }

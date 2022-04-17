@@ -34,7 +34,7 @@
     ?>
 
     <!-- Hero Area Section Begin -->
-    <div class="hero-area set-bg other-page" data-setbg="img/about_bg.jpg">
+    <div class="hero-area set-bg other-page" data-setbg="img/banner/29.jpeg">
     </div>
     <!-- Hero Area Section End -->
 
