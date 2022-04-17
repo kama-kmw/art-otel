@@ -28,6 +28,8 @@
 <body>
 
     <?php
+    $page = 'Галерея';
+    
     include 'includes/preloader.php';
     include 'includes/header.php';
     ?>

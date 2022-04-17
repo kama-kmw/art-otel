@@ -27,6 +27,8 @@
 <body>
 
     <?php
+    $page = 'Номера';
+    
     include 'includes/preloader.php';
     include 'includes/header.php';
     ?>

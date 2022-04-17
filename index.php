@@ -27,6 +27,8 @@
 <body>
     
     <?php 
+    $page = 'Главная';
+    
     include 'includes/preloader.php';
     include 'includes/header.php';
     ?>

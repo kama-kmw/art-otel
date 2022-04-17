@@ -12,10 +12,10 @@
             </div>
             <nav class="main-menu mobile-menu">
                 <ul>
-                    <li class="active"><a href="index.php">Главная</a></li>
-                    <li><a href="rooms.php">Номера</a></li>
-                    <li><a href="galery.php">Галерея</a></li>
-                    <li><a href="contact.php">Контакты</a></li>
+                    <li <?php if($page == 'Главная') echo 'class="active"'; ?> ><a href="index.php">Главная</a></li>
+                    <li <?php if($page == 'Номера') echo 'class="active"'; ?> ><a href="rooms.php">Номера</a></li>
+                    <li <?php if($page == 'Галерея') echo 'class="active"'; ?> ><a href="galery.php">Галерея</a></li>
+                    <li <?php if($page == 'Контакты') echo 'class="active"'; ?> ><a href="contact.php">Контакты</a></li>
                 </ul>
             </nav>
             <div id="mobile-menu-wrap"></div>
