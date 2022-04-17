@@ -46,12 +46,12 @@
                         <div class="datepicker">
                             <p>From</p>
                             <input type="text" class="datepicker-1" value="dd / mm / yyyy">
-                            <img src="img/calendar.png" alt="">
+                            <img src="img/icon/calendar.png" alt="">
                         </div>
                         <div class="datepicker">
                             <p>To</p>
                             <input type="text" class="datepicker-2" value="dd / mm / yyyy">
-                            <img src="img/calendar.png" alt="">
+                            <img src="img/icon/calendar.png" alt="">
                         </div>
                         <div class="room-quantity">
                             <div class="single-quantity">

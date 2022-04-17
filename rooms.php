@@ -46,12 +46,12 @@
                         <div class="datepicker">
                             <p>Дата въезда</p>
                             <input type="text" class="datepicker-1" value="dd / mm / yyyy">
-                            <img src="img/calendar.png" alt="">
+                            <img src="img/icon/calendar.png" alt="">
                         </div>
                         <div class="datepicker">
                             <p>Дата выезда</p>
                             <input type="text" class="datepicker-2" value="dd / mm / yyyy">
-                            <img src="img/calendar.png" alt="">
+                            <img src="img/icon/calendar.png" alt="">
                         </div>
                         <!-- <div class="room-quantity">
                             <div class="single-quantity">
@@ -91,9 +91,9 @@
                 <div class="col-lg-6">
                     <div class="ri-slider-item">
                         <div class="ri-sliders owl-carousel">
-                            <div class="single-img set-bg" data-setbg="images/11.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="images/12.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="images/13.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/rooms/11.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/rooms/12.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/rooms/13.jpg"></div>
                         </div>
                     </div>
                 </div>
@@ -141,9 +141,9 @@
                 <div class="col-lg-6 order-lg-2">
                     <div class="ri-slider-item">
                         <div class="ri-sliders owl-carousel">
-                            <div class="single-img set-bg" data-setbg="images/14.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="images/15.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="images/16.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/rooms/14.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/rooms/15.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/rooms/16.jpg"></div>
                         </div>
                     </div>
                 </div>
@@ -190,10 +190,10 @@
                 <div class="col-lg-6">
                     <div class="ri-slider-item">
                         <div class="ri-sliders owl-carousel">
-                            <div class="single-img set-bg" data-setbg="images/17.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="images/18.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="images/19.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="images/20.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/rooms/17.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/rooms/18.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/rooms/19.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/rooms/20.jpg"></div>
 
                         </div>
                     </div>
