@@ -146,6 +146,13 @@ ol {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: top center;
+	position: relative;
+	z-index: 1;
+}
+
+.facilities-item {
+	position: relative;
+	z-index: 10;
 }
 
 .spad {
@@ -657,6 +664,7 @@ ol {
 	padding-left: 100px;
 	padding-right: 100px;
 	padding-bottom: 60px;
+
 }
 
 .facilities-item.fi-right .fi-title {
@@ -664,7 +672,7 @@ ol {
 }
 
 .facilities-item .fi-title {
-	margin-bottom: 375px;
+	margin-bottom: 275px;
 }
 
 .fi-title-bg {
@@ -679,7 +687,10 @@ ol {
 	font-weight: 500;
 	line-height: 48px;
 	margin-bottom: 38px;
+
 }
+
+
 
 .facilities-item .fi-title p {
 	color: #ffffff;
@@ -2111,6 +2122,12 @@ ol {
 	.ri-text .ri-features .ri-info {
 		margin-bottom: 20px;
 	}
+	.facilities-item {
+		
+		padding-top: 35px;
+	
+	
+	}
 }
 .artcod-link {
 	color: #F9AD81 !important;
@@ -2119,3 +2136,4 @@ ol {
 .hero-area.other-page { 
 	height: 487px;
 }
+

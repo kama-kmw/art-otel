@@ -21,7 +21,7 @@
                 </div>
             </div>
             <div class="col-lg-3">
-                <div class="footer-item">
+                <div class="footer-item"> 
                     <h5>Контакты</h5>
                     <ul>
                         <li><img src="img/icon/placeholder.png" alt="">Ессентуки, <br />ул. Фридриха Энгельса, д.2а</li>

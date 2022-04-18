@@ -123,8 +123,10 @@
                         <div class="logo footer__logo-title"><a href="#">Art Hotel</a></div>
                         <ul>
                             <li>г. Ессентуки<br />ул. Фридриха Энгельса, д.2а</li>
-                            <li>hello@youremail.com</li>
-                            <li>+7 (923) 777-14-38</li>
+                            <li>art.hotel.essentuki@mail.ru</li>
+                            <li>+7 (961) 481-11-18</li>
+                            <li>8 (87934) 5-40-60</li>
+
                         </ul>
                         <div class="social-links">
                             <ul class='social-box__links'>

@@ -173,9 +173,76 @@
                             <p>Звукоизолированные номера</p>
                             <p>Трансфер от/до аэропорта</p>
                         </div>
-                        <a href="#" class="primary-btn">Make a Reservation</a>
+                        <!-- <a href="#" class="primary-btn">Make a Reservation</a> -->
                     </div>
                 </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="facilities-item set-bg" data-setbg="img/rooms/22.jpeg">
+                        <div class="fi-title-bg">
+                            <div class="fi-title ">
+                            <h2>Дабл</h2>
+                            <p>- 2200</p>
+                            </div>
+                            <div class="fi-features ">
+                                <div class="fi-info">
+                                    <i class="flaticon-019-television"></i>
+                                    <p>Телевизор</p>
+                                </div>
+                                <div class="fi-info">
+                                    <i class="flaticon-029-wifi"></i>
+                                    <p>Wi-Fi</p>
+                                </div>
+                                 <div class="fi-info">
+                                    <i class="flaticon-003-air-conditioner"></i>
+                                    <p>Сплит</p>
+                                </div>
+                                <div class="fi-info">
+                                    <i class="flaticon-036-parking"></i>
+                                    <p>Парковка</p>
+                                </div>
+                                <div class="fi-info">
+                                    <i class="flaticon-007-swimming-pool"></i>
+                                    <p>Трансфер</p>
+                                </div>
+                            </div>
+                            <a href="#" class="primary-btn">Забронировать</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="facilities-item set-bg" data-setbg="img/rooms/13.jpg">
+                        <div class="fi-title-bg">
+                            <div class="fi-title ">
+                            <h2>Твин</h2>
+                            <p>- 2200</p>
+                            </div>
+                            <div class="fi-features ">
+                                <div class="fi-info">
+                                    <i class="flaticon-019-television"></i>
+                                    <p>Телевизор</p>
+                                </div>
+                                <div class="fi-info">
+                                    <i class="flaticon-029-wifi"></i>
+                                    <p>Wi-Fi</p>
+                                </div>
+                                 <div class="fi-info">
+                                    <i class="flaticon-003-air-conditioner"></i>
+                                    <p>Сплит</p>
+                                </div>
+                                <div class="fi-info">
+                                    <i class="flaticon-036-parking"></i>
+                                    <p>Парковка</p>
+                                </div>
+                                <div class="fi-info">
+                                    <i class="flaticon-007-swimming-pool"></i>
+                                    <p>Трансфер</p>
+                                </div>
+                            </div>
+                            <a href="#" class="primary-btn">Забронировать</a>
+                        </div>
+                    </div>
             </div>
         </div>
     </section>
