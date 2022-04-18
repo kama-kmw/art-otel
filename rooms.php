@@ -104,7 +104,7 @@
                         <div class="section-title">
                             <div class="section-title">
                                 <span>номер двухместный</span>
-                                <h2> с двумя кроватями</h2>
+                                <h2>Твин</h2>
                             </div>
                             <p>Площадь номера 20м2</p>
                             <p>Две односпальные кровати</p>
@@ -154,7 +154,7 @@
                         <div class="section-title">
                             <div class="section-title">
                                 <span>номер двухместный</span>
-                                <h2>c двуспальной кроватью</h2>
+                                <h2>Дабл</h2>
                             </div>
                             <p>Площадь номера 20м2</p>
                             <p>Двуспальная кровать</p>
