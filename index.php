@@ -34,7 +34,7 @@
     ?>
 
     <!-- Hero Area Section Begin -->
-    <section class="hero-area set-bg" data-setbg="img/banner/25.jpeg">
+    <section class="hero-area set-bg" data-setbg="img/banner/31.jpeg">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -108,7 +108,7 @@
                         </div>
                         <p>Отель располагается в городе Ессентуки, в 20 км от курортного города Кисловодск. На территории отеля действует Wi-Fi, имеется частная парковка, также допускается размещение с домашними животными.
                         </p>
-                        <p>Гости могут посещать бар и ресторан отеля, в котором представлен широкий ассортимент блюд и напитков.</p>
+                        <!-- <p>Гости могут посещать бар и ресторан отеля, в котором представлен широкий ассортимент блюд и напитков.</p> -->
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -162,7 +162,7 @@
                         <div class="fi-title fi-title-bg">
                             <h2>Сервисы</h2>
                             <p>Камера хранения багажа</p>
-                            <p>Парикмахерская/салон красоты</p>
+                            <!-- <p>Парикмахерская/салон красоты</p> -->
                             <p>Номера для некурящих</p>
                             <p>Мини-маркет на территории</p>
                             <p>Ежедневная уборка номера</p>
@@ -182,7 +182,7 @@
                     <div class="facilities-item set-bg" data-setbg="img/rooms/22.jpeg">
                         <div class="fi-title-bg">
                             <div class="fi-title ">
-                            <h2>Дабл</h2>
+                            <h2>Стандарт с большой 2х спальной кроватью</h2>
                             <p>- 2200</p>
                             </div>
                             <div class="fi-features ">
@@ -312,7 +312,7 @@
 
     <!-- Video Section Begin -->
     <div class="video-section">
-        <div class="video-bg set-bg" data-setbg="img/video-bg.jpg"></div>
+        <div class="video-bg set-bg" data-setbg="img/rooms/17.jpg"></div>
         <div class="container">
             <div class="video-text set-bg" data-setbg="img/galery/10.jpeg">
                 <!-- <a href="https://www.youtube.com/watch?v=j56YlCXuPFU" class="pop-up"><i class="fa fa-play"></i></a> -->

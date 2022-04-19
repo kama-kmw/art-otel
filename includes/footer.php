@@ -26,8 +26,8 @@
                     <ul>
                         <li><img src="img/icon/placeholder.png" alt="">Ессентуки, <br />ул. Фридриха Энгельса, д.2а</li>
                         <!-- <li><img src="img/icon/phone.png" alt=""><a href="tel:+79064137777">+7 (906) 413-77-77</a></li> -->
-                        <li><img src="img/icon/phone.png" alt=""><a href="tel:+79614811118">+7 (961) 481-11-18</a></li>
-                        <li><img src="img/icon/phone.png" alt=""><a href="tel:+78793454060">+7 (879) 345-40-60</a></li>
+                        <li><img src="img/icon/phone.png" alt=""><a href="tel:+79614811118">8 (961) 481-11-18</a></li>
+                        <li><img src="img/icon/phone.png" alt=""><a href="tel:+78793454060">8 (87934) 5-40-60</a></li>
                     </ul>
                 </div>
             </div>
