@@ -143,6 +143,9 @@
                                      target="_blank" class='social-contact__link'><img src="img/icon/whatsapp.png"></a>
                                 </li>
                                 <li>
+                                    <a href="https://tlgg.ru/arthotel2018" target="_blank" class='social-contact__link'><img src="img/icon/telegram.png"></a>
+                                </li>
+                                <li>
                                     <a href="mailto:art.hotel.essentuki@mail.ru"     
                                      target="_blank" class='social-contact__link'><img src="img/icon/mail.png"></a>
                                 </li>
